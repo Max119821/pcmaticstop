@@ -1,6 +1,7 @@
-# Yippie my first project, hope it goes well :D
+# Yippie my first project, hope it goes well. Did my best :D
 
-Valuable information for the users.
+The right information right at your finger tips.
+
 
 
 
